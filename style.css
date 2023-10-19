@@ -1,0 +1,21 @@
+body {
+    font-size: 15pt;
+    background-color:#8391A1;
+    text-align:center;
+}
+#header{
+   background-color:#BEC3C6;
+   color:#59656D;
+   padding:35px;
+   font-size:30pt;
+}
+#PG{
+   color:#59656D;
+   font-size:30pt;
+   background-color:#BEC3C6;
+   padding:20px;
+}
+.P{
+background-color: #BEC3C6;
+padding:20px;
+}
